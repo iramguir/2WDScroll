@@ -1,0 +1,27 @@
+{
+  "name": "2wdscroll",
+  "version": "1.0.0",
+  "description": "Can be used to add custom scrollbar on top of defined element in addition to default scrollbar in bottom, end result is a doubled scrollbar",
+  "main": "2wdScroll.js",
+  "scripts": {
+    "test": "karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iramguir/2WDScroll.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "Double",
+    "scroll",
+    "Top",
+    "Scroll"
+  ],
+  "author": "Indunil Ramadasa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/iramguir/2WDScroll/issues"
+  },
+  "homepage": "https://github.com/iramguir/2WDScroll#readme"
+}
